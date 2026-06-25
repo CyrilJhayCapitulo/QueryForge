@@ -107,19 +107,9 @@ python main.py
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-### Database Explorer
-
-> *Add screenshot here*
-
-### SQL Query Builder
-
-> *Add screenshot here*
-
-### Query Results
-
-> *Add screenshot here*
+![QueryForge Demo](QueryForge_demo.png)
 
 ---
 
